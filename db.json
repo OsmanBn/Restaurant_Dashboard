@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "Allo Resto",
+      "email": "ToyatoResto@gmail.com",
+      "mobile": "6941127845",
+      "address": "Yaoundé Basto",
+      "services": "Livraison à domicile de petit déjeuner"
+    },
+    {
+      "id": 7,
+      "name": "ANAS Repas",
+      "email": "Anas@gmail.com",
+      "mobile": "8554227",
+      "address": "Kalakuta city",
+      "services": "Bouillon, Eru"
+    },
+    {
+      "id": 8,
+      "name": "Quan Zi",
+      "email": "Quan123@yahoo.fr",
+      "mobile": "645120033",
+      "address": "rue Mont33",
+      "services": "Café, bouillie, hamburger"
+    }
+  ],
+  "signup": [
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "Armelo",
+      "email": "Armelo@gmail.com",
+      "mobile": 697842100,
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "Ahmadou",
+      "email": "Alfe@gmail.fr",
+      "mobile": 691912172,
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
