@@ -23,6 +23,14 @@
       "mobile": "645120033",
       "address": "rue Mont33",
       "services": "Café, bouillie, hamburger"
+    },
+    {
+      "id": 9,
+      "name": "BenoitResto",
+      "email": "BenoitResto@gmail.com",
+      "mobile": "6124154545",
+      "address": "12 rue Camara",
+      "services": "Steak Haché, Okok, Taro"
     }
   ],
   "signup": [
@@ -46,6 +54,20 @@
       "mobile": 691912172,
       "password": "123",
       "id": 3
+    },
+    {
+      "name": "Alan",
+      "email": "Alan123@gmail.com",
+      "mobile": 123,
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Benoit",
+      "email": "ousmanbenoit@gmail.com",
+      "mobile": 691227135,
+      "password": "1234",
+      "id": 5
     }
   ],
   "comments": [],

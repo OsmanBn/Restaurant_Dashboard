@@ -54,7 +54,7 @@ export class RestaurentDashComponent {
       this.getAllData()
     },
     err=>{
-      alert("Erreur lors de l'ajout !!!")
+      alert("Erreur lors de l'ajout !!! error "+err);
     })    
   }
 
